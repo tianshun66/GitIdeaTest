@@ -1,8 +1,8 @@
 # GitIdeaTest
 在idea上测试Git的使用  
 
-commit
+git commit 本地
 
-git fetch
+git fetch 更新
 
-git merge
+git merge 合并
